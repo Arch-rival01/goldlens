@@ -1,0 +1,6 @@
+{
+  "name": "GoldLens",
+  "description": "Trading-intelligence dashboard comparing four MCX gold futures contracts: GOLDM, GOLDTEN, GOLDGUINEA, and GOLDPETAL. Same gold, four prices, one honest answer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

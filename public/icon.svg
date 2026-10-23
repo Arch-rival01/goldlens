@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="#0F172A"/>
+  <circle cx="256" cy="256" r="170" stroke="#60A5FA" stroke-width="20" stroke-dasharray="8 8" opacity="0.4"/>
+  <!-- Gold Bullion Stack -->
+  <path d="M170 330 L342 330 L318 370 L194 370 Z" fill="#2563EB" opacity="0.85"/>
+  <path d="M150 280 L362 280 L346 320 L166 320 Z" fill="#3B82F6"/>
+  <path d="M180 230 L332 230 L316 270 L196 270 Z" fill="#93C5FD"/>
+  <!-- Lens Monocle / Crosshair Overlay -->
+  <circle cx="270" cy="240" r="110" stroke="#2DD4BF" stroke-width="24"/>
+  <line x1="345" y1="315" x2="410" y2="380" stroke="#2DD4BF" stroke-width="28" stroke-linecap="round"/>
+  <!-- 4 Spark Points representing 4 contracts -->
+  <circle cx="210" cy="190" r="12" fill="#3B82F6"/>
+  <circle cx="330" cy="190" r="12" fill="#2DD4BF"/>
+  <circle cx="210" cy="290" r="12" fill="#60A5FA"/>
+  <circle cx="310" cy="280" r="12" fill="#93C5FD"/>
+</svg>
